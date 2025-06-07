@@ -1,7 +1,7 @@
 # ML-project-1
 Predicting Engagement of Social Media Posts Using Content Type & Timing Features
 Project Overview
-This project aims to predict engagement levels of social media posts (likes, comments, shares) for the company, based on content types and timing features. The ultimate goal is to guide content strategy for higher engagement and better resource allocation across platforms.
+This project aims to predict engagement levels of social media posts for the company, based on content types and timing features. The ultimate goal is to guide content strategy for higher engagement and better resource allocation across platforms.
 
 Stakeholder
 Head of Product Marketing – looking for actionable insights to improve social media performance and campaign planning.
@@ -11,9 +11,9 @@ Which features of a social media post — including content type, day of the wee
 Can we build a model to predict future engagement and guide strategy?
 
 Dataset
-Source: Internal marketing and social media performance dashboards (SproutSocial).
-
-Features:
+Source: - Internal Sprout Social data export (Jan 1 – Apr 30, 2025)
+- **Platforms**: Facebook, TikTok, X
+- **Features**:
 Content Type, Post Text, Platform, Post Time, Day of Week, Engagements, Reach, Video Views, etc.
 
 Target: Engagements
