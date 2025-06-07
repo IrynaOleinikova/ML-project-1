@@ -1,5 +1,6 @@
 # ML-project-1
 Predicting Engagement of Social Media Posts Using Content Type & Timing Features
+
 Project Overview
 This project aims to predict engagement levels of social media posts for the company, based on content types and timing features. The ultimate goal is to guide content strategy for higher engagement and better resource allocation across platforms.
 
